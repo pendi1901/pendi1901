@@ -5,7 +5,7 @@
 - 🔭 Apart from Programming I'm a Star Wars Junkie.
 - ⛹️ Love spectator sports - Football ⚽️ and Formula One 🏎.
 ## Languages and Tools 
-
+<img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 ![Anurag's GitHub stats](https://github-readme-stats-lovat-gamma-49.vercel.app/api?username=pendi1901&count_private=true&show_icons=true&theme=midnight-purple)
 
 
