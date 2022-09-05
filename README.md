@@ -7,6 +7,8 @@
 ## Languages and Tools 
 
 ![Anurag's GitHub stats](https://github-readme-stats-lovat-gamma-49.vercel.app/api?username=pendi1901&count_private=true&show_icons=true&theme=midnight-purple)
+</br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pendi1901&bg_color=000000&color=ffffff&line=8700f5&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 # Let's Get in Touch
