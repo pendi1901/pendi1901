@@ -1,6 +1,10 @@
-# I'm Ritvik Pendyala!
-
-
+# Hey! I'm Ritvik Pendyala! 👋
+-  Hey y'all, I'm Ritvik Pendyala, a Computer Science Junior @ IIITD.
+- 💻 I've been fond of programming for the past few years since I started my programming journey back in 2021.
+- 🤖 My main interests include FlutterDev, ML and playing with Data!
+- 🔭 Apart from Programming I'm a Star Wars Junkie.
+- ⛹️ Love spectator sports - Football ⚽️ and Formula One 🏎.
+## Languages and Tools 
 
 ![Anurag's GitHub stats](https://github-readme-stats-lovat-gamma-49.vercel.app/api?username=pendi1901&count_private=true&show_icons=true&theme=midnight-purple)
 
