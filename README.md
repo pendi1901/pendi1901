@@ -5,6 +5,7 @@
 - 🔭 Apart from Programming I'm a Star Wars Junkie.
 - ⛹️ Love spectator sports - Football ⚽️ and Formula One 🏎.
 ## Languages and Tools 
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -20,6 +21,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-lovat-gamma-49.vercel.app/api?username=pendi1901&count_private=true&show_icons=true&theme=midnight-purple)
 </br>
