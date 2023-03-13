@@ -49,3 +49,7 @@ Hey y'all, I'm Ritvik Pendyala, a Computer Science Junior @ IIITD.<br>💻 I've 
 <a href="https://twitter.com/pendi1901" target="_blank"><img align="left" src="images/twitter.png" alt="Ritvik Pendyala - Twitter" width="42px"/></a>
 <a href="https://www.instagram.com/pendi_1901/" target="_blank"><img align="left" src="images/INSTAGRAM.png" alt="Ritvik Pendyala - Instagram" width="42px"/></a>
 <a href="https://ritvikpendyala.vercel.app/" target="_blank"><img align="left" src="images/link.png" alt="Ritvik Pendyala - Personal Website" width="42px"/></a>
+<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=pendi1901&icon=0&color=0)](https://visitcount.itsvg.in)
